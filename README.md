@@ -1,1 +1,1 @@
-# Distributed-Sign-Language-Recognition-Syste-
+# Distributed-Sign-Language-Recognition-System-
